@@ -424,3 +424,7 @@ nav {
   border-radius: 50%;
   margin-right: 5px;
 }
+
+.post-row a {
+  color: #1876f2;
+}
